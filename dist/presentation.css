@@ -1,0 +1,26 @@
+
+.fragment-container {
+  text-align: start;
+  font-size: 22px;
+
+}
+
+.r-stack {
+  margin: 0 auto;
+}
+
+.false {
+  color: red;
+}
+
+.true {
+  color: green;
+}
+
+.hash {
+  font-size: 20px;
+}
+
+.explorer {
+  color: blue;
+}
